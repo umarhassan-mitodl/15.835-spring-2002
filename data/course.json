@@ -1,0 +1,47 @@
+{
+  "term": "Spring",
+  "year": "2002",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Entrepreneurship"
+    ],
+    [
+      "Business",
+      "Marketing"
+    ]
+  ],
+  "legacy_uid": "9e4b93ac-9f13-0565-f1fb-9a238751ab9b",
+  "instructors": {
+    "content": [
+      "5f527d0c-f17f-d2ce-d4cb-af4105a0e233"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6efc1711-d37e-8e13-6ae5-78131f10f11a",
+    "website": "15-835-entrepreneurial-marketing-spring-2002"
+  },
+  "course_title": "Entrepreneurial Marketing",
+  "course_description": "This course clarifies key marketing concepts, methods, and strategic issues relevant for start-up and early-stage entrepreneurs. At this course, there are two major questions:\n\n1.  **Marketing Question:** What and how am I selling to whom?\n2.  **New Venture Question:** How do I best leverage my limited marketing recourses?\n\nSpecifically, this course is designed to give students a broad and deep understanding of such topics as:\n\n1.  What are major strategic constraints and issues confronted by entrepreneurs today?\n2.  How can one identify and evaluate marketing opportunities?\n3.  How do entrepreneurs achieve competitive advantages given limited marketing resources?\n4.  What major marketing/sales tools are most useful in an entrepreneurial setting?\n\nBecause there is no universal marketing solution applicable to all entrepreneurial ventures, this course is designed to help students develop a flexible way of thinking about marketing problems in general.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.835",
+  "course_image_thumbnail": {
+    "content": "51349146-edbe-50f6-f938-1108dcadec7a",
+    "website": "15-835-entrepreneurial-marketing-spring-2002"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "eefb8b84-84e1-494d-a64b-34181bbe2a1f",
+  "site_short_id": "15.835-spring-2002",
+  "site_url_path": "courses/15-835-entrepreneurial-marketing-spring-2002",
+  "title": "Course Metadata"
+}
