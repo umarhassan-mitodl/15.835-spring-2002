@@ -5,6 +5,8 @@ description: "This assignment is designed to help students learn about how to fo
 file: /courses/15-835-entrepreneurial-marketing-spring-2002/ea886d27f825041c94cf2b9fa20d50f9_assignment2.pdf
 file_size: 113120
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
