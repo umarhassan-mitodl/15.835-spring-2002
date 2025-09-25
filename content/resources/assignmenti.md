@@ -4,6 +4,8 @@ description: Assignment to design a research plan for concept testing of a new p
 file: /courses/15-835-entrepreneurial-marketing-spring-2002/a392c23cc262ca62516f83f4107255e5_assignmentI.pdf
 file_size: 101962
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
