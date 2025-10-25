@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides a data analysis program used for one of the course
   assignments, along with instructions.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection

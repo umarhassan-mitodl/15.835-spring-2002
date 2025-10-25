@@ -4,8 +4,6 @@ description: Example product concept testing survey.
 file: /courses/15-835-entrepreneurial-marketing-spring-2002/d2a9a649b481616af1d603f3085241be_pdaconcepttest.pdf
 file_size: 126969
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
